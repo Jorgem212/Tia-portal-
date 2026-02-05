@@ -1,0 +1,2 @@
+Two reference PLCs (CPU 1516F3) and an HMI are used, for which PLC1 has the operation of a large part of the process, connected PN/IE between the three devices, using ladder language and reusable code encapsulations with functions, reaching a project base where the HMI is easy and intuitive for the operator and also informative for the same.
+here link YOUYUBE here link YOUTUBE https://www.youtube.com/watch?v=Pf-HR3QXHQg
